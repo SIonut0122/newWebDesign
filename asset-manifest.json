@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/newWebDesign/static/css/main.e5535c6c.chunk.css",
+    "main.js": "/newWebDesign/static/js/main.3ff44a3e.chunk.js",
+    "main.js.map": "/newWebDesign/static/js/main.3ff44a3e.chunk.js.map",
+    "runtime~main.js": "/newWebDesign/static/js/runtime~main.c3741077.js",
+    "runtime~main.js.map": "/newWebDesign/static/js/runtime~main.c3741077.js.map",
+    "static/js/2.08a4ba02.chunk.js": "/newWebDesign/static/js/2.08a4ba02.chunk.js",
+    "static/js/2.08a4ba02.chunk.js.map": "/newWebDesign/static/js/2.08a4ba02.chunk.js.map",
+    "index.html": "/newWebDesign/index.html",
+    "precache-manifest.375a72558c7be943b99de2f59490ea26.js": "/newWebDesign/precache-manifest.375a72558c7be943b99de2f59490ea26.js",
+    "service-worker.js": "/newWebDesign/service-worker.js",
+    "static/css/main.e5535c6c.chunk.css.map": "/newWebDesign/static/css/main.e5535c6c.chunk.css.map",
+    "static/media/Light_Leak_Motion.mp4": "/newWebDesign/static/media/Light_Leak_Motion.57dfdf95.mp4",
+    "static/media/joshua-earle.jpg": "/newWebDesign/static/media/joshua-earle.6a3de149.jpg",
+    "static/media/firstPage.css": "/newWebDesign/static/media/logo.36766399.png",
+    "static/media/matthew-henry.jpg": "/newWebDesign/static/media/matthew-henry.9de3e9bf.jpg",
+    "static/media/secondPage.css": "/newWebDesign/static/media/stars.e6e10899.png",
+    "static/media/super_88.mov": "/newWebDesign/static/media/super_88.0eb88afb.mov",
+    "static/media/trans.png": "/newWebDesign/static/media/trans.3408054e.png"
+  }
+}
